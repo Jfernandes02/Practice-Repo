@@ -2,6 +2,7 @@
 title: "README"
 output: html_document
 date: '2018-11-28'
+name: Jeremy Fernandes
 ---
 
 ```{r setup, include=FALSE}
